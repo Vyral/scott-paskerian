@@ -16,7 +16,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/option-1-1.jpg
+youtube_alternate_image: /uploads/the-ugly-truth-about-zestimates-yt.jpg
 youtube_code: 'https://youtu.be/NiT2rH5ABDY'
 ---
 
