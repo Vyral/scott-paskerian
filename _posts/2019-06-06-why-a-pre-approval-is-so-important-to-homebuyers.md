@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why a Pre-Approval Is so Important to Homebuyers
-date: 2019-06-07 14:36:32
+date: 2019-06-06 14:36:00
 tags:
   - Real Estate
   - Home Buyer Tips
