@@ -13,7 +13,7 @@ pullquote: Nothing is set in stone until that pre-approval is issued.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/option-1.jpg
+youtube_alternate_image: /uploads/why-should-you-get-a-pre-approval-youtube.jpg
 youtube_code: 'https://youtu.be/_KFmiorzTlc'
 ---
 
