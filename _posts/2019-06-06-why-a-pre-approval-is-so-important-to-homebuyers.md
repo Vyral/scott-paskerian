@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/_KFmiorzTlc'
 
 {% include youtube.html %}
 
-Do you want to avoid the anger, frustration, and annoyance of not being prepared when you go out searching for your first home? **Here’s what you need to do first in order to get ready to first your home.**
+Do you want to avoid the anger, frustration, and annoyance of not being prepared when you go out searching for your first home? **Here’s what you need to do first in order to get ready to search for your first your home.**
 
 Real estate is always in the news. Inventory is at an all-time low, and finding the right home is difficult. Although it can be challenging, there are ways for you to be prepared for when you’re ready to start that search.
 
