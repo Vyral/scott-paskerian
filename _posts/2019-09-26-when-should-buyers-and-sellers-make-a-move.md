@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/when-is-the-best-time-to-buy-or-sell-a-home-youtube.jpg
-youtube_code: 'https://youtu.be/gPRgQSVkBPc'
+youtube_code: 'https://youtu.be/h7ya5j-jsrM'
 ---
 
 {% include youtube.html %}
