@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Happy Holidays!
-date: 2019-12-16 16:52:08
+date: 2019-12-16 16:52:00
 tags:
   - Real Estate
 excerpt: I wish you a joyous holiday season from my family to yours!
@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/when-is-the-best-time-to-buy-or-sell-a-home-youtube-1.jpg
+youtube_alternate_image: /uploads/happy-holidays-from-my-family-to-yours-youtube.jpg
 youtube_code: yLnvgiLGesE
 ---
 
