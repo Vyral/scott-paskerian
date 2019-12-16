@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Happy Holidays!
-date:
+date: 2019-12-16 16:52:08
 tags:
   - Real Estate
 excerpt: I wish you a joyous holiday season from my family to yours!
