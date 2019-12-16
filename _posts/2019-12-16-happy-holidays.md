@@ -10,12 +10,12 @@ enclosure: >-
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/happy-holidays-from-my-family-to-yours-youtube.jpg
 youtube_code: yLnvgiLGesE
 ---
 
-{% include youtube.html %}<p style="text-align: center;"><em>I wish you a joyous holiday season from my family to yours!</em></p> 
+{% include youtube.html %}&lt;p style="text-align: center;"&gt;*I wish you a joyous holiday season from my family to yours\!*&lt;/p&gt;
 
 As we head toward the end of the year, I want to wish you a joyous holiday season, no matter what holiday or celebration you may be enjoying. I truly appreciate those of you who have done business with me this year or sent me a referral and trusted me to represent one of your friends.
 
