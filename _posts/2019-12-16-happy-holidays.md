@@ -22,5 +22,3 @@ youtube_code: yLnvgiLGesE
 As we head toward the end of the year, I want to wish you a joyous holiday season, no matter what holiday or celebration you may be enjoying. I truly appreciate those of you who have done business with me this year or sent me a referral and trusted me to represent one of your friends.
 
 If you have any questions about buying, selling, or investing in real estate, I’ll be glad to answer them. Don’t hesitate to reach out. I hope to talk to you soon. Happy holidays from my family to yours\!
-
-{% include pullquote.html %}
