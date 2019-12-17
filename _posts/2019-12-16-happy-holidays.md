@@ -16,7 +16,6 @@ youtube_code: yLnvgiLGesE
 ---
 
 {% include youtube.html %}
-
 <p style="text-align: center;"><em>I wish you a joyous holiday season from my family to yours</em></p>
 
 
