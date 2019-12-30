@@ -34,8 +34,8 @@ There are several obvious reasons buyers or sellers wouldn’t want to make thei
 
 **1\. Home shopping now means seeing a home in its entirety.** If you’re buying a home, you want to know that its systems and appliances are working well and you’ll be able to get through your first winter without needing to make any major repairs, and buying during winter allows this.
 
-{% include pullquote.html %}
-
 **2\. Your agent has more time to focus on you.** As I said, there are fewer homes on the market right now, which means your agent probably has fewer clients at this time of year and they can devote more energy to getting you the best deal.&nbsp;
+
+{% include pullquote.html %}
 
 If you have any more questions about buying or selling during winter or our market in general, don’t hesitate to reach out to me. I’d love to help you.
