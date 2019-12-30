@@ -20,7 +20,9 @@ youtube_alternate_image: /uploads/why-winter-is-a-good-time-to-buy-or-sell-youtu
 youtube_code: 6_3GYC04D4A
 ---
 
-{% include youtube.html %}&nbsp;
+{% include youtube.html %}
+
+<p style="text-align: center;"><em>Despite what you may think, winter is a great time to buy or sell a home. Here’s why.</em></p>
 
 There are several obvious reasons buyers or sellers wouldn’t want to make their move during winter, but here are a few reasons why this season is actually a great time to buy or sell:
 
