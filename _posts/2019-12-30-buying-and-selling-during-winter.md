@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Buying and Selling During Winter
-date: 2019-12-30 17:50:53
+date: 2019-12-30 17:50:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
