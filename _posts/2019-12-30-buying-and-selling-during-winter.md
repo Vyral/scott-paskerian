@@ -22,7 +22,7 @@ youtube_code: 6_3GYC04D4A
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Despite what you may think, winter is a great time to buy or sell a home. Here’s why.</em></p>
+*Despite what you may think, winter is a great time to buy or sell a home. Here’s why.*
 
 There are several obvious reasons buyers or sellers wouldn’t want to make their move during winter, but here are a few reasons why this season is actually a great time to buy or sell:
 
@@ -36,8 +36,8 @@ There are several obvious reasons buyers or sellers wouldn’t want to make thei
 
 **1\. Home shopping now means seeing a home in its entirety.** If you’re buying a home, you want to know that its systems and appliances are working well and you’ll be able to get through your first winter without needing to make any major repairs, and buying during winter allows this.
 
-**2\. Your agent has more time to focus on you.** As I said, there are fewer homes on the market right now, which means your agent probably has fewer clients at this time of year and they can devote more energy to getting you the best deal.&nbsp;
-
 {% include pullquote.html %}
+
+**2\. Your agent has more time to focus on you.** As I said, there are fewer homes on the market right now, which means your agent probably has fewer clients at this time of year and they can devote more energy to getting you the best deal.&nbsp;
 
 If you have any more questions about buying or selling during winter or our market in general, don’t hesitate to reach out to me. I’d love to help you.
