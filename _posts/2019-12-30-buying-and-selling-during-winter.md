@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/why-winter-is-a-good-time-to-buy-or-sell-email.jpg
-youtube_code: 6_3GYC04D4A
+youtube_code:
 ---
 
 {% include youtube.html %}
