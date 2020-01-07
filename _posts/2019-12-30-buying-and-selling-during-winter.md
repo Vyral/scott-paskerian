@@ -16,8 +16,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: >-
-  /uploads/why-winter-is-a-good-time-to-buy-or-sell--youtube-1-use-this-one-today.jpg
+youtube_alternate_image: /uploads/why-winter-is-a-good-time-to-buy-or-sell--youtube-2--coat.jpg
 youtube_code: 6_3GYC04D4A
 ---
 
