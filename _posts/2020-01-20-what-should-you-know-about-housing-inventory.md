@@ -20,7 +20,7 @@ youtube_code: hkG4bfJTso8
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Housing inventory is a catch-all term for a lot of different market stats. Here’s what you need to know.</em></p>
+*Housing inventory is a catch-all term for a lot of different market stats. Here’s what you need to know.*
 
 You hear about the housing inventory on the news all the time, but what does the term really mean? **Our housing inventory is basically the number of houses on the market, the average length of time a house spends on the market before it’s sold, and whether it’s a stronger market for buyers or sellers based on those numbers.**
 
@@ -32,4 +32,4 @@ For sellers, these numbers tell you how long you can expect your home to be on t
 
 We can break this down even further. When we talk about good inventory, we’re talking about a lot of options for buyers, which gives them more negotiation power. **For sellers, when we have low inventory and a lot of buyers, that is “good inventory” for them.**
 
-If you have any questions about these statistics or anything else related to real estate, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you soon.
+If you have questions about these statistics or anything else related to real estate, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you soon.
