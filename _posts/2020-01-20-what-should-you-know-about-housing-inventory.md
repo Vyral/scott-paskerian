@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Should You Know About Housing Inventory?
-date: 2020-01-20 17:33:13
+date: 2020-01-20 17:33:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
