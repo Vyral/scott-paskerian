@@ -18,7 +18,9 @@ youtube_alternate_image: /uploads/what-the-current-housing-inventory-means-for-y
 youtube_code: hkG4bfJTso8
 ---
 
-{% include youtube.html %}&nbsp;
+{% include youtube.html %}
+
+<p style="text-align: center;"><em>Housing inventory is a catch-all term for a lot of different market stats. Here’s what you need to know.</em></p>
 
 You hear about the housing inventory on the news all the time, but what does the term really mean? **Our housing inventory is basically the number of houses on the market, the average length of time a house spends on the market before it’s sold, and whether it’s a stronger market for buyers or sellers based on those numbers.**
 
