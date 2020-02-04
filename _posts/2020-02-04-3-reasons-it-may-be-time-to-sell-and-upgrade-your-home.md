@@ -21,6 +21,8 @@ youtube_code: 'https://youtu.be/P3zWCE4iHXQ'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>There are three main reasons it might be time for you to sell your home and upgrade.</em></p>
+
 Here are three reasons why it may be time for you to sell and upgrade to a new home:&nbsp;
 
 **1\. Money.** Has your salary increased, or have you finally received that long-awaited bonus? Or perhaps you got married and now have a dual income? The market is only going to go up, so it’s better to use that money to buy now than wait a year or two.
