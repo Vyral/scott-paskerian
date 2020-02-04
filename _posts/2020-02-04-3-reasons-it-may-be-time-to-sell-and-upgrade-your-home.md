@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Reasons It May Be Time to Sell and Upgrade Your Home
-date: 2020-02-04 22:26:13
+date: 2020-02-04 22:26:00
 tags:
   - Home Seller Tips
 excerpt: >-
