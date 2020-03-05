@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/Rvv0pB2QiOM'
 
 {% include youtube.html %}
 
-*Has your home been sitting on the market for too long? Find out how to avoid racking up more days on market.*
+<p style="text-align: center;"><em>Has your home been sitting on the market for too long? Find out how to avoid racking up more days on market.</em></p>
 
 Today we’re going to discuss the term days on market and what it means to you, a prospective homebuyer or seller.&nbsp;
 
