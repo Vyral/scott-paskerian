@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/scott-paskerian-may-2020-market-update-yt.jpg
+youtube_alternate_image: /uploads/5-27---scott-paskerian---yt.jpg
 youtube_code: fIhoaSkZl3U
 ---
 
