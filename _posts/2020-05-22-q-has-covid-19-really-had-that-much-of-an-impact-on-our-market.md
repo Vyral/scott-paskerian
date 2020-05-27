@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Has COVID-19 Really Had That Much of an Impact on Our Market?'
-date: 2020-05-22 20:46:54
+date: 2020-05-22 20:46:00
 tags:
   - Real Estate
 excerpt: Here’s the latest from our Boston market as we wrap up May 2020.
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/scott-paskerian-may-2020-market-update-yt.jpg
-youtube_code: 'https://youtu.be/jHEO1xP-idI'
+youtube_code: fIhoaSkZl3U
 ---
 
 {% include youtube.html %}
