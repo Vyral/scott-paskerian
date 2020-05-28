@@ -11,8 +11,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/5-27---scott-paskerian---yt.jpg
-youtube_code: fIhoaSkZl3U
+youtube_alternate_image: /uploads/market-update-thumb.jpg
+youtube_code: Ql6_Wud2NLg
 ---
 
 {% include youtube.html %}
