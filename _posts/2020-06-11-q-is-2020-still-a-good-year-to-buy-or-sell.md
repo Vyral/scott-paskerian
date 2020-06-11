@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/ktj3HHl4hv8'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Buyers and sellers are ready to resume their real estate plans.</em></p>
+
 Is 2020 still a good year to buy or sell a home? If you’re asking yourself this question, you’re not alone.&nbsp;
 
 The NAR recently conducted a survey about whether or not buyers and sellers still plan on following through with their real estate plans this year. Regarding this survey, NAR Chief Economist Lawrence Yun was quoted as saying:
