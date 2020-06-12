@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/ktj3HHl4hv8'
 
 {% include youtube.html %}
 
-*Buyers and sellers are ready to resume their real estate plans.*
+<p style="text-align: center;"><em>Buyers and sellers are ready to resume their real estate plans.</em></p>
 
 Is 2020 still a good year to buy or sell a home? If you’re asking yourself this question, you’re not alone.&nbsp;
 
