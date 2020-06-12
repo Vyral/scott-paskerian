@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Is 2020 Still a Good Year to Buy or Sell?'
-date: 2020-06-11 13:32:49
+date: 2020-06-11 13:32:00
 tags:
   - Real Estate
 excerpt: Buyers and sellers are ready to resume their real estate plans.
@@ -11,13 +11,13 @@ pullquote: 'The bottom line is, the housing market is still strong.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/scott-paskerian-will-the-market-turn-around-yt.jpg
+youtube_alternate_image: /uploads/scott-paskerian-will-the-market-turn-around-yt2.jpg
 youtube_code: 'https://youtu.be/ktj3HHl4hv8'
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Buyers and sellers are ready to resume their real estate plans.</em></p>
+*Buyers and sellers are ready to resume their real estate plans.*
 
 Is 2020 still a good year to buy or sell a home? If you’re asking yourself this question, you’re not alone.&nbsp;
 
