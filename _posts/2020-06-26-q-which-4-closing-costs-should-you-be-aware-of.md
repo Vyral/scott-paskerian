@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: Which 4 Closing Costs Should You Be Aware Of?'
+title: 'Q: Which 4 Closing Costs Should You know about?'
 date: 2020-06-26 20:37:45
 tags:
   - Home Buyer Tips
