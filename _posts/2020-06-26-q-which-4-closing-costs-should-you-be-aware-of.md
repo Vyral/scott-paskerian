@@ -23,7 +23,7 @@ youtube_code: 'https://youtu.be/hX8yRVRwZnk'
 
 When buying a home, there are other fees you must be prepared to pay besides the down payment. Here are the four big-ticket items to budget for:
 
-**1\. Lender fees.** These are the fees that come with getting a mortgage, and they’ll vary depending on which mortgage you secure (conventional, FHA, jumbo loan, etc.). Because of this, there’s no precise number you can expect to pay, but you can ask your lender to get a good idea.&nbsp;
+**1\. Lender fees.** These are the fees that come with getting a mortgage, and they’ll vary depending on which mortgage you secure (conventional, FHA, jumbo loan, etc.). Due to this, there’s no precise number you can expect to pay, but you can ask your lender to get a good idea.&nbsp;
 
 **2\. Attorney fees.** Massachusetts is an attorney state when it comes to real estate closings, meaning we don’t use title or escrow companies. Your attorney will represent you from the purchase sale agreement all the way to closing. If they represent the lender, the fee may be reduced slightly. &nbsp;In any case, you should expect to pay $800 to $1,200. Again, it will vary depending on the situation.&nbsp;
 
