@@ -6,7 +6,7 @@ tags:
   - Home Buyer Tips
 excerpt: Here are the four primary closing costs you should know as a homebuyer.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Scott+Paskerian/Videos/2020/Q-+Which+4+Closing+Costs+Should+You+Be+Aware+Of_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Scott+Paskerian/Videos/2020/Q-+Which+4+Closing+Costs+Should+You+Know+About_.mp4
 pullquote: >-
   Remember to discuss these fees with your agent during your initial meetings so
   you’re not caught unaware.
